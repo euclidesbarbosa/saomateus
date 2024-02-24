@@ -1,0 +1,25 @@
+INSERT INTO tipo 
+(tipo_sigla, tipo_sta, tipo_nome) VALUES
+('BAIRRO', 1, UPPER('Centro Lado A')),
+('BAIRRO', 1, UPPER('Centro Lado B')),
+('BAIRRO', 1, UPPER('Vila Barreto')),
+('BAIRRO', 1, UPPER('Avenida Piquí')),
+('BAIRRO', 1, UPPER('Alto da Vitória')),
+('BAIRRO', 1, UPPER('Vila Lobão')),
+('BAIRRO', 1, UPPER('Piquí')),
+('BAIRRO', 1, UPPER('Tânia Amorim')),
+('BAIRRO', 1, UPPER('Vaquejada')),
+('BAIRRO', 1, UPPER('Ayrton Senna')),
+('BAIRRO', 1, UPPER('Serraria')),
+('BAIRRO', 1, UPPER('Toca da Raposa')),
+('BAIRRO', 1, UPPER('Novo Eden')),
+('BAIRRO', 1, UPPER('Vila Nova 3')),
+('BAIRRO', 1, UPPER('Milton Aragão')),
+('BAIRRO', 1, UPPER('05 Estrelas')),
+('BAIRRO', 1, UPPER('Vila Brasil')),
+('BAIRRO', 1, UPPER('Mãe Viúva')),
+('BAIRRO', 1, UPPER('Vilinha')),
+('BAIRRO', 1, UPPER('São Pedro')),
+('BAIRRO', 1, UPPER('Recanto dos Jardins')),
+('BAIRRO', 1, UPPER('Alto da Bela Vista'));
+('BAIRRO', 1, UPPER('Lot. Tapuio'));

@@ -1,0 +1,14 @@
+DELETE FROM atendimento WHERE 1;
+DELETE FROM estabelecimento WHERE 1;
+DELETE FROM cliente_censo WHERE 1;
+DELETE FROM cliente_contato WHERE 1;
+DELETE FROM cliente_doc WHERE 1;
+DELETE FROM escola_aluno WHERE 1;
+DELETE FROM file_entries WHERE 1;
+DELETE FROM menu_perfil_user WHERE 1;
+DELETE FROM menu_perfil WHERE 1;
+DELETE FROM pessoa_situacao WHERE 1;
+DELETE FROM pessoa WHERE 1;
+DELETE FROM domicilio WHERE 1;
+DELETE FROM users WHERE tipo_perfil_id > 1;
+DELETE FROM tipo WHERE tipo_sigla IN('BAIRRO', 'POVOADO');
